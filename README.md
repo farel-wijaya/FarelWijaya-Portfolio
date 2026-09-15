@@ -1,7 +1,6 @@
-# Portfolio — Bagas Wirawan (contoh)
+# Portfolio — Farel Wijaya
 
-Website portofolio statis (HTML/CSS/JS murni, tanpa framework) dengan gaya
-sidebar gelap + hero bertema "terminal", cocok untuk mahasiswa Teknik Informatika.
+Website portofolio statis (HTML/CSS/JS murni, tanpa framework)
 
 ## Struktur file
 ```
